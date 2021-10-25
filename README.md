@@ -7,7 +7,7 @@ This a new way of creating Private Channels with a lot of Features, like
 - Friendlist
 - decline and accept request
 - and more
---Test--
+- ~~Save Channels~~
 
 ## TODO
 - [x] Example
