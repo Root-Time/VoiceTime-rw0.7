@@ -1,0 +1,32 @@
+{
+    "friends": {},
+    "user_setting": {
+        "no_privat_notification": []
+    },
+    "timeout": [],
+    "845575016358871041": {
+        "Langues": "de",
+        "Normal_Channel": 874748190946119790,
+        "Privat_Channel": 886365995193741402,
+        "Voice_Setting_Chat": 886365989959262230,
+        "Voice_Logs_Chat": 886365991301419088,
+        "Queue": 888895862477033533,
+        "Voice_Logs_Public": true,
+        "voice": [],
+        "friends": {},
+        "Config": 874746487475691620
+    },
+    "410475041277345853": {
+        "Langues": "de",
+        "Normal_Channel": 881237546040979486,
+        "Privat_Channel": 881237546909184020,
+        "Warteschlange": 881237752920801342,
+        "Voice_Setting_Chat": 881237541997649940,
+        "Voice_Logs_Chat": 881237542836510780,
+        "Queue": 881237752920801342,
+        "Voice_Logs_Public": true,
+        "voice": [],
+        "friends": {},
+        "Config": 889156828712304640
+    }
+}
