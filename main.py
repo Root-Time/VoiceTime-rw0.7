@@ -22,7 +22,7 @@ async def on_ready():
 
 bot.load_extension("cogs.VoiceTime")
 bot.load_extension("cogs.newServer")
-#bot.load_extension("cogs.Langues_Converter")
+#bot.load_extension("cogs.Language_converter")
 bot.load_extension("cogs.setting")
 bot.load_extension("cogs.Utility")
 bot.load_extension("cogs.VoiceCommands")
