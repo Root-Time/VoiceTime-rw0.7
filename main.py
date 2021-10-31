@@ -5,8 +5,6 @@ from discord.ext.commands.errors import CommandNotFound, MemberNotFound
 from VoiceModule import *
 
 
-
-TOKEN = 'NzM2NjMxNDgwMjc2NjE1MTc0.Xxxnhg.boaFBNcLH6BJ0nAeo0Y-bEHIzyU'
 PREFIX = '!!'
 INTENTS = discord.Intents.all()
 bot = commands.Bot(command_prefix=PREFIX, intents=INTENTS)
