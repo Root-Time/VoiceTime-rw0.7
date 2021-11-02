@@ -1,4 +1,4 @@
-# VoiceTime
+# VoiceTime rw0.7 (outdated)
 
 ## About this Project
 
